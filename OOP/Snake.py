@@ -14,3 +14,4 @@ class Snake(Reptile):
 
 
 sally = Snake()
+Steve = Snake()
